@@ -1,2 +1,10 @@
-# **aprender-a-sumar**
-en este repositorio demostraremos las capacidades de los estudiantes de la universidad de antioquia para aprender a sumar 
+# **aprender-a-sumar😒**
+
+# *integrantes*
+## **sebastian rios**
+### descripcion 
+> soy un joven estudiante de cuarto semestre de ingenieria industrial y si tengo carnet
+## **nickolas sarmiento**
+### descripcion
+> soy un joven estudiante de cuarto semestre de ingenieria industrial y tambien tengo carnet
+> 
