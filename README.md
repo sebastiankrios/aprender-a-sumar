@@ -1,4 +1,4 @@
-# **aprender-a-sumar😒**
+# **gestor-de-prestamos😒**
 
 # *integrantes*
 ## **sebastian rios**
