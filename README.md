@@ -1,5 +1,5 @@
 # **gestor-de-prestamos😒**
-
+![imagen de prestamos](https://raw.githubusercontent.com/sebastiankrios/aprender-a-sumar/refs/heads/main/img/gestion-de-prestamos-y-anticipos-de-forma-eficiente.png)
 # *integrantes*
 ## **sebastian rios**
 ### descripcion 
